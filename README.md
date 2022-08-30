@@ -1,2 +1,1 @@
-# Recreating_The_Snake_Game
-Recriando o jogo da cobrinha 
+# Recreate the Snake Game
